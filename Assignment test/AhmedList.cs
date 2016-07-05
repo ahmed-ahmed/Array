@@ -8,30 +8,29 @@ namespace Assignment_test
 {
     class AhmedList
     {
-        public int[] myArray = new int[1];
-        int i;
-
-
-
-
-
+        private int[] myArray = new int[1];             //you don't want the user of the class to access the array
+        //int i;                                          //this is a very local variable
         //ADD
         public void add(int x)
         {
+            // create new array
             int[] y = new int[myArray.Length + 1];
 
-            for (i = 0; i < myArray.Length; i++)
+            // copy the array
+            for (int i = 0; i < myArray.Length; i++)
             {
                 y[i] = myArray[i];
             }
+            // add the element 
             y[i] = x;
 
-
+            //set my array to the "y"
+            myArray = y; 
             // el mafrod hna a5ly myArray length = y length w b3deen el for deh bs msh 3arf ezay
-            for (i = 0; i < y.Length; i++)
-            {
-                myArray[i] = y[i];
-            }
+            //for (int i = 0; i < y.Length; i++)
+            //{
+            //    myArray[i] = y[i];
+            //}
         }
 
 
