@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\bin\Debug\Assignment test.exe.config
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\bin\Debug\Assignment test.exe
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\bin\Debug\Assignment test.pdb
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\obj\Debug\Assignment test.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\obj\Debug\Assignment test.exe
+c:\users\mohamed\documents\visual studio 2012\Projects\Assignment test\Assignment test\obj\Debug\Assignment test.pdb
